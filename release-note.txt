@@ -1,6 +1,4 @@
-// Inspired by: https://medium.com/@rob_gill_/design-better-release-notes-3e8c8c785231#.k5feqldab
-
-The introduction. A short paragraph. Make this personal if appropriate. Eg. "Season greetings, everyone! You asked, Santa listened - this update is exactly what you ask for this Christmas."
+The introduction. A short paragraph. Make this personal if appropriate. Eg. "Season greetings, everyone! You asked, Santa listened - this update is exactly what you ask for this Christmas." Make it colorful with emojis 🤘🏻 where appropriate.
 
 TL; DR
 • An extra short summary of these notes goes here.
