@@ -1,4 +1,6 @@
-Inspired by: https://medium.com/@rob_gill_/design-better-release-notes-3e8c8c785231#.k5feqldab
+# Release Note Template
+
+Template to use for your app release notes. App Store doesn't support any formatting of release notes, so this is a template to keep things somewhat formatted and infromative. See the file `release-note.txt`.
 
 ## Versioning of releases
 
@@ -14,3 +16,8 @@ Use [semantic versioning](http://semver.org/). Short summary:
 ## Excelent examples
 
 - Pocket Casts
+- 1Password
+
+## Credits
+
+Slightly modified version originally created by [Rob Gill](https://medium.com/@rob_gill_/design-better-release-notes-3e8c8c785231#.k5feqldab).
