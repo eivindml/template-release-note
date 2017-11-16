@@ -1,6 +1,6 @@
 # Release Note Template
 
-Template to use for your app release notes. App Store doesn't support any formatting of release notes, so this is a template to keep things somewhat formatted and infromative. See the file `release-note.txt`.
+Template to use for your app release notes. App Store doesn't support any formatting of release notes, so this is a template to keep things somewhat formatted and infromative. See the file [`release-note.txt`](release-note.txt).
 
 ## Versioning of releases
 
